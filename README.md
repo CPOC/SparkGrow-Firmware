@@ -4,7 +4,8 @@ Intent of the core is limited to, relay switching and sensor reporting.
 
 Action is taken based on 60 commands passed to it that represent one minuet. 
 
-Core firmware code should focus on ensureing the core is performing the correct actions. 
+Core firmware code should focus on ensureing the core is performing the correct actions.
+  No logic in the firmware, just how to do tasks, change water, lights on.. ex
 
 Actions:
   
