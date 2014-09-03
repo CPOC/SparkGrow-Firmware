@@ -5,7 +5,9 @@ Intent of the core is limited to, relay switching and sensor reporting.
 Action is taken based on 60 commands passed to it that represent one minuet. 
 
 Core firmware code should focus on ensureing the core is performing the correct actions. 
-  Actions:
+
+Actions:
+  
     Each grow tent
     Lights on   -   Inlcude Fan on 
     Feed water  -   Feed Relay on,  Water pump on
