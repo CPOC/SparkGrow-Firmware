@@ -1,14 +1,6 @@
 // This #include statement was automatically added by the Spark IDE.
 //#include "idDHT22/idDHT22.h"
 
-// "fan" Post Commands (comma delimited):
-//      active=1|0
-//      reset=1|0 # (1)This udpates twice! fix it!
-//      post=1
-//          cycle=X
-//          hours=X
-//          days=X
-TCPClient client;
 
 uint32_t lastReset = 0; // last known reset time
 
