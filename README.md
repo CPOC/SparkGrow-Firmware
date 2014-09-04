@@ -8,6 +8,7 @@ Core firmware code should focus on ensureing the core is performing the correct 
   No logic in the firmware, just how to do tasks, change water, lights on.. ex
 
 Actions:
+==================
   
     Each grow tent
     Lights on   -   Inlcude Fan on 
@@ -18,4 +19,4 @@ Actions:
     Fill - Pump off, Fill valve on,   Until water at sensor level
     Drain - Pump on, Fill vavle close, Drain valve open, Feed valves closed.
     Dosing - After Drain / Fill action,   Full res, 
-              Dosing defined as ratio Dosepump1,2,3  Dose 10 ml at a time until conductivity reaches X 
+              Dosing defined as ratio Dosepump1,2,3  Dose 10 ml at a time until conductivity reaches X
